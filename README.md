@@ -6,6 +6,7 @@ Before this I was CEO of a nonprofit that ran literacy and vocational classes fo
 
 The concept demos below use only public data. Every number links to its source, and none of them is an official product of the group it's about.
 
+- [giraffe-id](https://myersmail9-afk.github.io/client-demos/giraffe-id/): a working app that tells individual giraffes apart by their coat spots, flags possible injuries for a vet to review, and keeps an audited record for each animal (3-minute guided tour)
 - [Peace Parks concept demo](https://myersmail9-afk.github.io/peace-parks-concept/)
 - [Buffelsfontein baseline](https://myersmail9-afk.github.io/buffelsfontein-baseline/)
 - [Kunene rain and fire](https://myersmail9-afk.github.io/client-demos/kunene-rain-fire/): every wet season since 1991/92 and NASA fire detections for Namibia's Kunene region
